@@ -1,9 +1,18 @@
 /* styles.css */
-
+*{
+    background-color: rgb(175, 195, 199);
+}
 .header {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 .image {
     text-align: center;
+}
+.btnwrap {
+    text-align: center;
+}
+.main {
+    text-align: center;
+    font-size: large;
 }
