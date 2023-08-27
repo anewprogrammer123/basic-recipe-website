@@ -14,9 +14,13 @@
 }
 .btnwrap {
     text-align: center;
+    margin: auto;
 }
 .main {
     color: antiquewhite;
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
+}
+.instructions {
+    width: 1000px;
 }
